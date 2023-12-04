@@ -1,0 +1,30 @@
+/* Style the body element */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Style the boxed div */
+.boxed {
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+
+/* Style the lipsum div */
+#lipsum {
+  margin-bottom: 20px;
+}
+
+/* Style the p elements inside the lipsum div */
+#lipsum p {
+  margin-bottom: 10px;
+}
+
+/* Style the img elements */
+img {
+  display: block;
+  margin: 10px auto;
+  max-width: 100%;
+  max-height: 120vh;
+}
