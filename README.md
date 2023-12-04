@@ -17,5 +17,5 @@ nginx/
     └── localhost.key*
 ```
 
-zbog relativne putanje prema ssl certifikatima.
+zbog relativne putanje prema ssl certifikatima u nginx.conf datoteci.
 Simbolom * su označene datoteke priložene uz ovaj repozitorij.
